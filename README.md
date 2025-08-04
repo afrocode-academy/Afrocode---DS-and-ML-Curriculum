@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/arewadsimage.png">
+<img src="gp2il6.jpg">
 </p>
 
 Afrocode Academy website: https://arewadatascience.github.io
